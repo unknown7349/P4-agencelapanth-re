@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: medium;
 }
 
 .tight-width-whitespace {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #CD4B0E;
     color: #FFFFFF!important;
 }
 
